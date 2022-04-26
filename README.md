@@ -12,7 +12,6 @@ The file “products.csv” has the following variables:
 •	total number of reviews: Total number of product reviews available on Amazon
 
 The file “copurchase.csv” has two variables, which are Product ID’s:
-
 •	Source: This is the focal product that was purchased 
 •	Target: People who bought “Source” also purchased the Target product 
 
